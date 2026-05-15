@@ -91,6 +91,7 @@
 - `output/scores/brown_motif.pdf`
 - `output/scores/brown_music.pdf`
 - `output/scores/brown_theme_development.pdf`
+- `output/scores/pink_and_brown_music.pdf`
 - `output/scores/pink_motif.pdf`
 - `output/scores/pink_music.pdf`
 - `output/scores/pink_theme_development.pdf`
