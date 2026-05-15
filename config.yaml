@@ -1,0 +1,21 @@
+seed: 20260515
+time_signature: "4/4"
+quarter_length_per_measure: 4.0
+measures:
+  random_melody: 20
+  pink_development: 24
+  brown_development: 28
+tempo:
+  random_melody: 108
+  pink_development: 116
+  brown_development: 92
+pitch:
+  min_midi: 60
+  max_midi: 84
+  tonic: C
+durations:
+  half: 2.0
+  quarter: 1.0
+  eighth: 0.5
+  16th: 0.25
+output_dir: output

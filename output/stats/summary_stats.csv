@@ -1,0 +1,3 @@
+label,lowest_pitch,highest_pitch,pitch_range_semitones,total_notes,total_measures,constraints_met
+pink,C4,C6,24,116,20,True
+brown,C4,C6,24,101,20,True
